@@ -10,4 +10,4 @@ www.parquedosbufalos.com.br
 www.puppycarepet.com.br  
 > Landing Page | Admin | CRM | SaaS
 
-- Next.Js • Tailwindcss • React • Nest • Prisma • Postgresql
+- Typescript • Next.Js • Tailwindcss • React • Nest • Prisma • Postgresql 
