@@ -5,4 +5,4 @@ Projects:
 Institucional website
 
 - www.puppycarepet.com.br  
-Landing Page | Admin-CRM | SaaS
+Landing Page | Admin | CRM | SaaS
