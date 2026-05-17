@@ -3,11 +3,11 @@
 www.parquedosbufalos.com.br  
 > Institucional website   
 
-- HTML, CSSS, JavaScript, Bootstrap, Tailwindcss.
+- HTML • CSS • JavaScript • Bootstrap.
 
 ---
 
 www.puppycarepet.com.br  
 > Landing Page | Admin | CRM | SaaS
 
-- NextJs, Nest, Tailwindcss, React, Prisma, Postgresql
+- NextJs • Tailwindcss • React • Nest • Prisma • Postgresql
