@@ -1,8 +1,13 @@
-# univesp-projects
+# Projects
 
-Projects:
-- www.parquedosbufalos.com.br  
-Institucional website
+www.parquedosbufalos.com.br  
+> Institucional website   
 
-- www.puppycarepet.com.br  
-Landing Page | Admin | CRM | SaaS
+- HTML, CSSS, JavaScript, Bootstrap, Tailwindcss.
+
+---
+
+www.puppycarepet.com.br  
+> Landing Page | Admin | CRM | SaaS
+
+- NextJs, Nest, Tailwindcss, React, Prisma, Postgresql
