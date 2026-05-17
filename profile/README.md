@@ -14,7 +14,4 @@ www.puppycarepet.com.br
 
 ---
 
-www.maximoae.com  
-> Landing Page | Admin 
-
-- Typescript • Next.Js • Tailwindcss • React • Node.js • SQLite • Postgresql 
+- Working now on...
